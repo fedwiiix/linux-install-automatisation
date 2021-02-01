@@ -2,8 +2,6 @@
 
 ## vps install
 
----
-
 php / apache / mariadb / phpmyadmin / rkhunter / fail2ban
 
 - mariadb client install
@@ -16,20 +14,14 @@ php / apache / mariadb / phpmyadmin / rkhunter / fail2ban
 
 ## wordpress install
 
----
-
 Install last wordpress version in current path and defaults plugins list. You can configure the list of plugins by alter the script
 
 ## pc install
-
----
 
 nextcloud / vivaldi / vscode / openjdk / android-studio / node / npm / git / ...
 
 Used for elementary os V5
 
 ## nextcloud install
-
----
 
 Install and configure nextcloud (tested with v20.0.4)
